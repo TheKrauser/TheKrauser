@@ -3,7 +3,7 @@
 #### • 📚     **Cursando Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba**
 #### • 🎓     **Formado como Técnologo em Jogos Digitais pela FACENS**
 #### • 👨‍💻     **Focado no desenvolvimento Back-end usando Node.js e Express para criar aplicações WEB**
-#### • 👾     **Também desenvolvo jogos em Unity usando C#**
+#### • 👾     **Conhecimento em desenvolvimento de jogos em Unity usando C#**
 
 #### **Contatos:** <div>
 <a href = "mailto:kevincaireleandro@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
