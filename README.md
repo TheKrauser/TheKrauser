@@ -2,7 +2,7 @@
 
 #### • 📚     **Cursando Análise e Desenvolvimento de Sistemas pela FATEC Sorocaba**
 #### • 🎓     **Formado como Técnologo em Jogos Digitais pela FACENS**
-#### • 👨‍💻     **Focado no desenvolvimento back-end usando Node.js e Express para criar aplicações WEB**
+#### • 👨‍💻     **Focado no desenvolvimento Back-end usando Node.js e Express para criar aplicações WEB**
 #### • 👾     **Também desenvolvo jogos em Unity usando C#**
 
 #### **Contatos:** <div>
