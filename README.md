@@ -24,7 +24,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
-• Desenvolvimento Frond-end
+• Desenvolvimento Front-end
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
