@@ -30,7 +30,7 @@
 
 • Banco de Dados
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)](https://skillicons.dev) 
 
 ---
 
