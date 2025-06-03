@@ -38,7 +38,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKrauser&layout=compact&hide=glsl,hlsl,shaderlab&exclude_repo=Jay_TurnBasedRPG,TesteLIGA,CursoGit)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKrauser&layout=compact&hide=glsl,hlsl,shaderlab&exclude_repo=Jay_TurnBasedRPG,TesteLIGA)
 
 <!--
 **TheKrauser/TheKrauser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
